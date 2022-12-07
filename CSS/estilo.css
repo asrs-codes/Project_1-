@@ -13,10 +13,10 @@ body {
 
 /***************
  LAYOUT DO SITE*/
- #logo,
- #menu {
-     padding: 10px;
- }
+#logo,
+#menu {
+    padding: 10px;
+}
 
 #cabecalho {
     margin-top: 5px;
@@ -32,8 +32,9 @@ body {
     color: white;
     border-bottom: 2px solid rgb(83, 15, 83);
     padding: 8px 12px;
-    
+
 }
+
 /*******************
 CONTEUDO PRIMARIO */
 #conteudo-primario {
@@ -42,8 +43,10 @@ CONTEUDO PRIMARIO */
     padding: 20px;
 
 }
-#container,.container {
-   font-size: 1em;
+
+#container,
+.container {
+    font-size: 1em;
     background-color: rgba(255, 255, 255, 0.3);
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
@@ -51,20 +54,28 @@ CONTEUDO PRIMARIO */
     margin-top: 10px;
     text-align: center;
 }
+
 /*******
 RODAPE*/
-#rodape{
+#rodape {
     clear: both;
     margin-top: 0 auto;
     padding: 10px;
 }
+
 /*********************
 CONFIGURAÇÕES GERAIS*/
-#cabecalho a:hover{
+#cabecalho a:hover {
     color: #fff;
     border-bottom: 2px solid #fff;
     cursor: pointer;
 }
+
 .center {
     text-align: center;
+}
+
+.classe-andrew {
+    color: #000;
+    background: #000;
 }
