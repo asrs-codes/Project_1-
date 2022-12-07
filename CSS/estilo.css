@@ -41,7 +41,6 @@ CONTEUDO PRIMARIO */
     width: 750px;
     margin: 0 auto;
     padding: 20px;
-
 }
 
 #container,
@@ -76,8 +75,8 @@ CONFIGURAÇÕES GERAIS*/
 }
 
 .classe-andrew {
-    color: #000;
-    background: #000;
+  color: #000;
+  background: #000;
 }
 
 .classe-hector {
